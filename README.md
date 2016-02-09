@@ -3,7 +3,7 @@
 Twitter book club on the theme of critical algorithm studies
 
 
-Twitter <a href="twitter.com/algorithm_club">@algorithm_club</a>
+Twitter <a href="https://twitter.com/algorithm_club">@algorithm_club</a>
 
 *Reading list: [http://socialmediacollective.org/reading-lists/critical-algorithm-studies](http://socialmediacollective.org/reading-lists/critical-algorithm-studies)/*
 
